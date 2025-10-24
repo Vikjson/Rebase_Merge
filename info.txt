@@ -1,1 +1,2 @@
 This is me saying hello from featureB
+Another comment from feature B
