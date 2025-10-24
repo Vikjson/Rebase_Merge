@@ -1,1 +1,1 @@
-Hello from featureA
+This is the second line in this file from branch A
