@@ -2,4 +2,5 @@ This is me saying hello from featureB
 Another comment from feature B
 Hello from featureA
 Tis is the second line in this file from branch A
+more text
 
